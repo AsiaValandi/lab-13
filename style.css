@@ -1,0 +1,73 @@
+*{margin:0;padding:0}body{margin:3vh 5vw;background-image:url('https://cdn.wallpapersafari.com/61/70/c9SF4w.jpg');background-size: cover;color:#fffcf9;overflow:hidden}.container{display:flex;flex-direction:column}.text{text-align:right}.row{display:flex;justify-content:space-between}.input-text{display:flex}input[type="text"]{height:2.5em;width:15em;border-radius:10px}input[type="text"]:focus{outline: none;}label[for="name"]{font-size:1.5em}.name{margin-right:3em}#messForm{display:flex}textarea{resize:none;width:50vw;height:3em;border-radius:10px;padding:.5%}textarea:focus{outline: none;}input[type="submit"]{margin-left:1em;border:.2em groove #fff;color:#fff;background:#051620;padding:.8em 1.6em;font-family:cursive;border-radius:10px}input[type="submit"]:focus{outline: none;}#all_mess{border:2px solid #999;width:50vw;height:61vh;padding:20px;background-color:#051620c4}.All-mess{display:flex;justify-content:center;margin:2em 0 1.5em}h1{font-size:4em}.lead{font-size:1.3em}
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 3vh 5vw;
+    background-color: #17a2b8; 
+    color: #fffcf9;
+    overflow: hidden;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.text{
+    text-align: right;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.input-text{
+    display: flex;
+}
+input[type="text"]{
+    height: 2.5em;
+    width: 15em;
+    border-radius: 10px;
+}
+label[for="name"]{
+    font-size: 1.5em;
+}
+.name{
+    margin-right: 3em;
+}
+#messForm{
+    display: flex;
+}
+textarea{
+    resize: none;
+    width: 50vw;
+    height: 3em;
+    border-radius: 10px;
+    padding: 0.5%;
+}
+input[type="submit"] {
+    margin-left: 1em;
+    border: 0.2em groove white;
+    color: white;
+    background:#17a2b8;
+    padding: 0.8em 1.6em;
+    font-family: cursive;
+    border-radius: 10px;
+}
+#all_mess{
+    border: 2px solid white;
+    width: 50vw;
+    height: 65vh;
+    background-color: cadetblue;
+}
+.All-mess{
+    display: flex;
+    justify-content: center;
+    margin: 2em 0 1.5em 0;
+}
+h1{
+    font-size: 4em;
+}
+.lead{
+    font-size: 1.3em;
+} */
